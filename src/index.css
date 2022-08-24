@@ -7,3 +7,13 @@
 {
     background-color: rgb(133, 168, 38) !important;
 }
+
+.green-highlight{
+    color: green;
+    font-size: 40px;
+}
+
+.gray-highlight{
+    color: gray;
+    font-size: 25px;
+}
